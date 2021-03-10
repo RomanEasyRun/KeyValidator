@@ -14,7 +14,9 @@ https://github.com/RomanEasyRun/KeyValidator/issues/1
 - Инструкция по установке OpenJDK 11
 - Руководство использования
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+В качестве тестовых данных использовались данные
+
+- https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
 
 Валидные ключи:
 

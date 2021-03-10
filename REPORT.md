@@ -34,5 +34,5 @@ https://github.com/RomanEasyRun/KeyValidator/issues/1
 
 Тестирование производилось в следующем окружении:
 
-Windows 10 Pro, 64-разрядная операционная система.
-Java version 11.0.10
+- Windows 10 Pro, 64-разрядная операционная система.
+- Java version 11.0.10
